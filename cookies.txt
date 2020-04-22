@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jessdesigntan.com	TRUE	/	FALSE	1999999999	PHPSESSID	l4hoepic36uf57oo42b64midd2
+
